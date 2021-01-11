@@ -20,6 +20,8 @@ Initization
 
 Packet flow
 -----------
+  ![Image of setup brought up](./afxdp_daq_pkt_flow.png)
+
 - receive module will poll input socket FD with configured time out
 - once it detects a packet it will check socket's RX queue to findout how many packets it received
 - read fill queue descriptors to find out packet length and the buffer in UMEM array where the packet reside
