@@ -1,4 +1,4 @@
-# Snort3 DAQs and Plugins
+# Snort3 DAQs pluginis
 
 ## AFXDP DAQ for SNORT3
  [AFXDP DAQ](./afxdp/README.afxdp.md)
